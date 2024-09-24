@@ -1,0 +1,12 @@
+{
+    "config": {
+      "chainId": 1,
+      "maxCodeSize": 24576
+    },
+    "gasLimit": "0x1c9c380", 
+    "alloc": {
+        "0x5B6F3C8C02D1D5A8CCAC7E3D1B1E71B3F1D9A7DC": { "balance": "1000000000000000000000" }
+    },
+    "timestamp": "0x0",  
+    "extraData": "0x"
+  }
